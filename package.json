@@ -1,0 +1,14 @@
+{
+  "name": "my-first-package",
+  "version": "1.0.0",
+  "description": "this package for create npm package test.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "my-first-package"
+  ],
+  "author": "giraffeman!80@gmail.com",
+  "license": "ISC"
+}
