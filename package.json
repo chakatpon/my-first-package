@@ -1,5 +1,5 @@
 {
-  "name": "my-first-package",
+  "name": "chakatpon-first-package",
   "version": "1.0.0",
   "description": "this package for create npm package test.",
   "main": "index.js",
